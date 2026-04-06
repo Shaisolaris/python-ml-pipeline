@@ -1,5 +1,7 @@
 # python-ml-pipeline
 
+![CI](https://github.com/Shaisolaris/python-ml-pipeline/actions/workflows/ci.yml/badge.svg)
+
 Production ML pipeline with data ingestion, feature engineering, model training with hyperparameter search, evaluation with classification/regression metrics, model comparison, and serving via FastAPI. Supports synthetic data generation, CSV loading, multiple scikit-learn models, and batch prediction.
 
 ## Stack
